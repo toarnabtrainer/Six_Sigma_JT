@@ -8,7 +8,7 @@
 
 **MiniTab 17 Download Link:** https://tinyurl.com/2p8t3w7m
 
-### Daywise Topic Coverage -
+### Daywise Topics Coverage -
 <table border = 3>
   <tr><th>Date</th><th>First Half</th><th rowspan=5>B<br>R<br>E<br>A<br>K</th><th>Second Half</th></tr>
   <tr><th>21-Feb-2023 (Tue)</th>
