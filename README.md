@@ -10,7 +10,7 @@
 
 ### Daywise Topic Coverage -
 <table border = 3>
-  <tr><th>Date</th><th>First Half</th><th>Second Half</th></tr>
+  <tr><th>Date</th><th>First Half</th><th rowspan=5>B<br>R<br>E<br>A<br>K</th><th>Second Half</th></tr>
   <tr><th>21-Feb-2023 (Tue)</th>
       <td>Project Management - Definition of Project and Project Management, Examples of Project, Project Selection Metrics, Triple Constraint Theorem, Project Strategy, Activity Definition, Activity Sequencing, Task Relationships, PERT Duration Estimation, Gantt Chart and Activity Network Diagram with Examples, Critical Path Method, Resource Allocation and Estimation, Cost and Schedule Baseline, WBS, Project Monitoring and Control, Project Variance, Key Definitions and Terminologies, Task Types, Task Constraints, Calendar Types and About Resources.</td>
       <td>Project Presentation.</td>
